@@ -106,13 +106,6 @@ Experimental results demonstrate that Q-PredRacer outperforms state-of-the-art a
 - Li, Yuanchun, et al. "DroidBot: a lightweight UI-guided test input generator for Android." In Proceedings of the 39th International Conference on Software Engineering Companion (ICSE-C '17). Buenos Aires, Argentina, 2017.
 - [PredRacer Documentation](<predracer-documentation-link>) 📚
 
-## 💬 Contact
 
-For questions or issues, please contact:
-
-- <your-name> 👤
-- <your-email> 📧
-
----
 
 ✨ Happy racing against data races! ✨
